@@ -22,7 +22,3 @@ Nossa missão nesta primeira semana consiste em tratar e analisar a base de dado
 * Traduzir as colunas ✅
 * Utilize alguma ferramenta de IA para auxiliar no projeto ✅
 * Utilizar a biblioteca plotly para fazer os gráficos ✅
-
-## 2ª Semana: Em andamento
-## 3ª Semana: ...
-## 4ª Semana: ...
